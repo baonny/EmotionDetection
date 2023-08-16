@@ -32,7 +32,7 @@ python imageNetMain_confusionMatrix.py -a resnet18 FER2013 --gpu 0 --batch-size 
 
 ## Contributors
 **Member:** <br />
-Fuwei Zhuang (Elina): 19fz2@queensu.ca :) <br />
+Fuwei Zhuang (Elina): 19fz2@queensu.ca <br />
 Benjamin Hui (Ben): 18bh13@queensu.ca <br />
 Hudson Chen (Hudson): 18hc41@queensu.ca <br />
 Wanqing Li (Wanqing): wanqing.li@queensu.ca <br />
